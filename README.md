@@ -41,6 +41,7 @@ Grandparent availability and educational composition across the life course of g
 **Reproducibility**
 
 The repository is intended to facilitate the reproduction of the study's demographic estimates, projections, and figures. The analysis relies on publicly available data, with source information provided in the paper.
+
 **Associated Paper**
 
 Adhikari, S., & Alburez-Gutierrez, D. (2025). The Future of Grandparenthood in South Asia: The Role of Population Aging and Educational Expansion. MPIDR Working Paper WP-2025-003, revised January 2026.

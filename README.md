@@ -16,14 +16,14 @@ The analysis uses time-variant, two-sex kinship models implemented through the R
 
 **The main data sources are:**
 
-UN World Population Prospects 2024 (WPP2024): Historical estimates and projections of age-specific fertility and mortality.
+UN World Population Prospects 2024 (WPP2024): Historical estimates and projections of age-specific fertility and surviaval probability.
 
-Schoumaker (2019): Estimates of male and female fertility used to approximate male age-specific fertility schedules from female fertility rates.
+Schoumaker (2019): Difference in mean age at childbearing between men and women used to approximate male age-specific fertility schedules from female fertility rates.
 
-Wittgenstein Centre Human Capital Data Explorer (2023 revision): Population projections by age, sex, and educational attainment under SSP1, SSP2, and SSP3.
+Wittgenstein Centre Human Capital Data Explorer (2023 revision): Population share by age, sex, and educational attainment under SSP1, SSP2, and SSP3 scenarios.
 
 
-Grandparents' educational composition is estimated by applying age-, sex-, and period-specific educational distributions from population projections to the kinship estimates. The approach assumes that grandparents have the same educational distribution as the general population of the corresponding age and sex.
+Grandparents' educational composition is estimated by applying age-, sex-, and period-specific educational distributions from population projections to the kinship estimates. The approach assumes that grandparents have the same educational distribution as the general population of the corresponding age and sex for given country and time.
 
 **Scope of the Analysis**
 

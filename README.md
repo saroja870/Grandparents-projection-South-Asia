@@ -10,11 +10,11 @@ Using time-variant, two-sex demographic kinship models, we estimate the average 
 
 The analysis considers both maternal and paternal grandparents, regardless of whether they live with their grandchildren. It also examines how grandparent availability and characteristics change across the life course of grandchildren.
 
-Methods and Data
+**Methods and Data**
 
 The analysis uses time-variant, two-sex kinship models implemented through the R package DemoKin. These models combine age-specific fertility and mortality schedules to estimate the expected number and age distribution of living grandparents for individuals of different ages.
 
-The main data sources are:
+**The main data sources are:**
 
 UN World Population Prospects 2024 (WPP2024): Historical estimates and projections of age-specific fertility and mortality.
 
@@ -25,7 +25,7 @@ Wittgenstein Centre Human Capital Data Explorer (2023 revision): Population proj
 
 Grandparents' educational composition is estimated by applying age-, sex-, and period-specific educational distributions from population projections to the kinship estimates. The approach assumes that grandparents have the same educational distribution as the general population of the corresponding age and sex.
 
-Scope of the Analysis
+**Scope of the Analysis**
 
 The code supports the estimation and analysis of:
 
@@ -39,16 +39,16 @@ Cross-country differences in the demographic characteristics of grandparents.
 
 Grandparent availability and educational composition across the life course of grandchildren.
 
-Reproducibility
+**Reproducibility**
 
 The repository is intended to facilitate the reproduction of the study's demographic estimates, projections, and figures. The analysis relies on publicly available data, with source information provided in the paper.
-Associated Paper
+**Associated Paper**
 
 Adhikari, S., & Alburez-Gutierrez, D. (2025). The Future of Grandparenthood in South Asia: The Role of Population Aging and Educational Expansion. MPIDR Working Paper WP-2025-003, revised January 2026.
 
 https://doi.org/10.4054/MPIDR-WP-2025-003
 
-Authors
+**Authors**
 
 Saroja Adhikari and Diego Alburez-Gutierrez
 

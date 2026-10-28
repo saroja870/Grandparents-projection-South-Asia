@@ -1,6 +1,5 @@
-# Grandparents-projection-South-Asia
-The future of grandparenthood in South Asia: The role of population aging and educational expansion
-Overview
+# The future of grandparenthood in South Asia: The role of population aging and educational expansion
+**Overview**
 
 This repository contains the R code supporting the study "The Future of Grandparenthood in South Asia: The Role of Population Aging and Educational Expansion" by Saroja Adhikari and Diego Alburez-Gutierrez.
 
